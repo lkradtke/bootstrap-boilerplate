@@ -16,8 +16,8 @@ This is a paragraph
 * Oranges
 * Bananas
 
-. This is a blockquote.
+> This is a blockquote.
 
 ----
 
-[Markdoesn Cheat Sheet] (https://www.markdownguide.org/cheat-sheet/)
+[Markdown Cheat Sheet] (https://www.markdownguide.org/cheat-sheet/)
