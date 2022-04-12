@@ -20,9 +20,12 @@ This is a paragraph
 
 ----
 
-[Markdown Cheat Sheet] (https://www.markdownguide.org/cheat-sheet/)
+[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 |Column 1|Column 2|Coulumn 3|
 |---|---|---|
 |Katie|Aaron|Addy|
 |Radtke|Radtke|Brown|
+
+~~The world is flat~~
+
