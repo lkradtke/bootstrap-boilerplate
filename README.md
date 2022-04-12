@@ -33,4 +33,12 @@ This is a paragraph
 - [ ] Update the website
 - [ ] Contact the media
 
-I need to highlight these <mark>very important word</mark>.
+I need to highlight these <mark>very important words</mark>.
+
+It includes the following files:
+
+...
+index.html
+css/style.css
+...
+
