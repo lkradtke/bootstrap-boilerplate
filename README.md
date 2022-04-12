@@ -33,4 +33,4 @@ This is a paragraph
 - [ ] Update the website
 - [ ] Contact the media
 
-I need to highlight these ==very important words==.
+I need to highlight these <mark>very important word</mark>.
