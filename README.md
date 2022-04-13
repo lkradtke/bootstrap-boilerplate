@@ -1,44 +1,24 @@
 # bootstrap-boilerplate
 
-## This is a level 2 heading
+## Updated April 2022
 
-This is a paragraph
+This is a practice template to learn README.md files and how to write them in markdown. This repository contains a bootstrap template.
 
-### This is an ordered list
-
-1.
-2.
-3.
-
-### This is an unordered list
-
-* Apples
-* Oranges
-* Bananas
-
-> This is a blockquote.
-
-----
-
-[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
-
-|Column 1|Column 2|Coulumn 3|
-|---|---|---|
-|Katie|Aaron|Addy|
-|Radtke|Radtke|Brown|
-
-~~The world is flat~~
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
-I need to highlight these <mark>very important words</mark>.
-
-It includes the following files:
+It also includes the following files:
 
 ```
 index.html
 css/style.css
 ```
+
+This repository is maintained by Leila Radtke.
+----
+
+[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+
+
+- [x] Write the README.md
+- [ ] Update the website
+
+
 
